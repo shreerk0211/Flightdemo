@@ -1,0 +1,85 @@
+
+.maindivv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('./assets/image/sbg6.jpg');
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+
+.form1{
+    margin-top: 10vh;
+}
+
+.signtitle{
+    margin-left: 30vh;
+    margin-top: 10vh;
+    color: #3751fe;
+}
+
+
+.signtxt h4{
+    margin-left: 16.8vh;
+    font-weight: lighter;
+}
+
+
+
+.form1{
+    background: transparent;
+    width: 500px;
+    height: 620px;
+    margin-bottom: 15vh;
+    margin-left: 5vh;
+}
+
+.fstname1 input{
+    padding: 10px;
+    margin-left: 5vh;
+    border: none;
+    border-radius: 20px;
+}
+
+
+.fstname1 :placeholder-shown{
+    width: 172px;
+    height: 20px;
+}
+
+.fstname input{
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+}
+.fstname :placeholder-shown{
+    width: 400px;
+    height: 20px;
+    margin-left: 5vh
+}
+
+
+.policys{
+    margin-left: 6vh;
+}
+
+.policys a{
+    color: blue;
+    font-weight: bold;
+}
+
+.btn{
+    margin-left: 6vh;
+}
+
+.btn button{
+    background-color: #3751fe;
+    height: 30px;
+    width: 80px;
+    border: none;
+    border-radius: 20px;
+}
+ 

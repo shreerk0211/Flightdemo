@@ -1,0 +1,85 @@
+.container{
+    margin-left: 5vh;
+    display: contents;
+    gap: 40px;
+}
+
+.navtitle {
+    display: flex;
+    gap: 20px;
+    color: #F5F5F5;
+    margin-left: 5vh;
+    font-family: "inter";
+}
+
+.navtitle a{
+    margin-top: 8vh;
+    font-weight: bold;
+}
+
+
+.login {
+    display: flex;
+    margin-left: 130vh;
+    margin-top: -6vh;
+}
+
+.loginbtn button {
+    background: transparent;
+    border: 1px;
+    align-items: center;
+    color: #F5F5F5;
+    font-size: 16px;
+    padding-left: 30px;
+    /* border-left: 2px solid; */
+
+}
+
+.signinbtn button {
+    padding-left: 5vh;
+    background: transparent;
+    border: 2px solid darkblue;
+    color: #F5F5F5;
+    border-radius: 20px;
+    padding-left: 2vh;
+    margin-left: 2vh;
+    font-size: 16px;
+}
+
+.a4abb {
+    /* border-right: 2px solid; */
+    padding-left: 25px;
+    color: #F5F5F5;
+}
+
+
+.sky1  b{
+    color: #F5F5F5;
+   font-size: 32px;
+    margin-left: 5vh;
+    color: yellow;
+    font-size: 42px;
+}
+
+.skynav2 {
+    font-size: 16px;
+    margin-top: -6vh;
+    margin-left: 110vh;
+}
+
+.skynav2 li {
+    display: inline;
+    color: #F5F5F5;
+    padding: 2vh;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: "inter";
+}
+
+.skynav2 :hover{
+     color: #FFD700;
+}
+
+.d66c{
+    margin-left: 6vh;
+}

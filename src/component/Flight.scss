@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+.a1 {
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+}
+
+video {
+    width: 100%;
+    height: 99vh;
+    object-fit: cover;
+    border-radius: 25px;
+}
+
+.a2 {
+
+    display: flex;
+    color: #FFD700;
+    font-weight: bold;
+    margin-top: -98vh;
+    margin-left: 5vh;
+    font-family: "inter";
+}
+
+.a2 a {
+    padding: 10px;
+}
+
+.a3 {
+    padding-left: 105vh;
+    margin-top: -6vh;
+
+}
+
+.a3 img {
+    padding: 10px;
+    height: 4vh;
+    width: 3vh;
+
+}
+
+.a4 {
+    display: flex;
+    margin-left: 130vh;
+    margin-top: -6vh;
+}
+
+.a4 :hover{
+    color: #FFD700;
+}
+
+.a4a button {
+    position: relative;
+    background: transparent;
+    border: 1px;
+    align-items: center;
+    color: #F5F5F5;
+    font-size: 16px;
+    padding-left: 30px;
+    border-left: 2px solid;
+
+}
+// .a4b{
+//   position: absolute;
+// //   border: 2px solid darkblue;
+// //   color: #F5F5F5;
+// }
+.a4b button {
+    position: absolute;
+    left: 148vh;
+    background: transparent;
+    border: 2px solid darkblue;
+    color: #F5F5F5;
+    border-radius: 20px;
+    padding-left: 2vh;
+    margin-left: 2vh;
+    font-size: 16px;
+}
+
+.a4ab {
+    border-right: 2px solid;
+    padding-left: 25px;
+    color: #F5F5F5;
+}
+
+.a5 {
+    margin-top: -3.7vh;
+    margin-left: 10vh;
+
+
+}
+
+.a5 select {
+    background: transparent;
+    border: none;
+    color: #F5F5F5;
+    padding-left: 162vh;
+    font-size: 16px;
+}
+
+
+.b1  b{
+    color: #F5F5F5;
+   font-size: 32px;
+    margin-left: 1vh;
+}
+
+.nav2{ 
+    position: relative;
+    font-size: 26px;
+    margin-top: -9vh;
+    margin-left: 104vh; 
+    
+}
+
+.nav2 li {
+    font-size: 20px;
+    display: inline;
+    color: #F5F5F5;
+    padding: 3vh;
+    font-family: "inter";
+}
+
+.linkline{
+    text-decoration: none;   
+}
+
+.nav2 :hover{
+    color: #FFD700;
+}
+
+
+
+
+.c1 {
+    font-size: 60px;
+    font-weight: 600;
+    color: #F5F5F5;
+    margin-left: 5vh;
+    margin-top: 10vh;
+}
+
+.c1 p{
+ color: #FFD700;
+}
+
+
+.skytxt{
+    color: darkblue;
+    font-family:monospace;
+    margin-top: -6vh;
+    margin-left: 8vh;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+// SECOND PAGE

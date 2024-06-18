@@ -1,0 +1,73 @@
+/* Bookingdata.css */
+
+.bookingdata-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-image: url('./assets/image/sbg5.jpg');
+    background-repeat: no-repeat ;
+    background-size: cover;
+  }
+  
+  .dataheader,
+  .datafoot {
+    flex-shrink: 0;
+  }
+  
+  .table-container {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+    margin-top: -15vh;
+  }
+  
+  .table-container h2 {
+    margin-bottom: 20px;
+    color: #FFD700;
+  }
+  
+  .bookingdata-table {
+    width: 100%;
+    max-width: 1000px;
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .bookingdata-table thead {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .bookingdata-table thead th {
+    padding: 12px;
+    text-align: left;
+    font-size: 16px;
+  }
+  
+  .bookingdata-table tbody td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .bookingdata-table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .bookingdata-table tbody tr:hover {
+    background-color: black;
+  }
+  
+  .bookingdata-table td {
+    padding: 12px;
+    font-size: 14px;
+    color: #FFD700;
+    font-weight: bold;
+    }
+  

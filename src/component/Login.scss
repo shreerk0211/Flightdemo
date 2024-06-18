@@ -1,0 +1,81 @@
+
+.maindivv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   
+}
+
+
+.signtitle{
+    margin-left: 30vh;
+    margin-top: 10vh;
+    color: #3751fe;
+}
+
+
+
+.form1{
+    background: transparent;
+    width: 500px;
+    height: 620px;
+    margin-bottom: 15vh;
+    margin-left: 5vh;
+}
+
+.fstname1 input{
+    padding: 10px;
+    margin-left: 5vh;
+    border: none;
+    border-radius: 20px;
+}
+
+
+.fstname1 :placeholder-shown{
+    width: 172px;
+    height: 20px;
+}
+
+.fstname input{
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+}
+.fstname :placeholder-shown{
+    width: 400px;
+    height: 20px;
+    margin-left: 5vh
+}
+
+
+.policy{
+    margin-left: 6vh;
+}
+
+.policy a{
+    margin-left: 22vh;
+}
+
+.btn1{
+    margin-left: 5vh;
+}
+
+.btn1 button{
+    background-color: #3751fe;
+    height: 45px;
+    color: aliceblue;
+    width: 420px;
+    border: none;
+    border-radius: 20px;
+}
+
+.registers{
+    margin-left: 15vh;
+}
+
+.registers span{
+    margin-left: 2vh;
+    color: #3751fe;
+}
+ 

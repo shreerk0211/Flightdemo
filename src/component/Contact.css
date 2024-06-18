@@ -1,0 +1,102 @@
+.contactmaindiv{
+    background-image: url('./assets/contact/bg1.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 220vh;
+    width: 100%;
+    font-family: monospace;
+}
+
+.cntimg img{
+    margin-top: 10vh;
+    width: 100%;
+    height: 450px;
+}
+
+.cnttxt{
+    position: absolute;
+    top: 30vh;
+    left: 80vh;
+    font-size: 46px;
+     color: white;
+}
+
+.cntform{
+  
+    width: 500px;
+    height: 620px;
+    margin-top: 20vh;
+    margin-left: 55vh;
+}
+
+.cntform1 input{
+    padding: 20px;
+    margin-left: 5vh;
+    border: none;
+    border-radius: 20px;
+}
+
+
+.cntform1 :placeholder-shown{
+    width: 172px;
+    height: 20px;
+    font-weight: bold;
+}
+
+.cntform11{
+    padding: 20px;
+    margin-left: 2vh;
+    border: none;
+    border-radius: 20px;
+}
+
+.cntform11 input{
+    padding: 25px;
+    border: none;
+    border-radius: 20px;
+    width: 90%;
+}
+
+
+.cntmform1 input{
+    padding: 20px;
+    margin-left: 5vh;
+    border: none;
+    border-radius: 20px;
+    
+}
+
+.cntmform1 :placeholder-shown{
+    width: 415px;
+    height: 40px;
+    font-weight: bold;
+}
+
+.cntbtn{
+    margin-left: 23vh;
+    margin-top: 3vh;
+}
+.cntbtn button{
+    background-color: #3751fe;
+    height: 45px;
+    color: aliceblue;
+    width: 220px;
+    border: none;
+    border-radius: 20px;
+}
+
+.cntmap{
+    margin-left: 35vh;
+    margin-bottom: 30vh;
+}
+
+.cntmap iframe{
+    width: 800px;
+    height: 300px;
+}
+
+.cntfoot  {
+
+}
+
